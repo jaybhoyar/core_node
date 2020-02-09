@@ -20,7 +20,6 @@ These modules are available in the projects, you simply have to require them in 
 
 ```js
 var fs = require("fs");
-
 ```
 
 #### 2. NPM Modules
